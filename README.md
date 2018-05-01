@@ -18,5 +18,5 @@ There are two more files:
 
 1- settings.xml: This file contains the settings needed for ipads.
 
-2- scripts/settings.txt: This file tells you have to configure TVs, to act as a kiosk.
+2- scripts/settings.txt: This file tells you have to configure a touch-screen TV, to act as a kiosk.
 
