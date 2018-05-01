@@ -1,0 +1,25 @@
+TV settings:
+
+1- Start chrome automatically on startup
+    Open System Preferences.
+    Go to Users & Groups.
+    Choose your username on the right.
+    Choose Login items tab.
+    Press the “+” sign below.
+    Add Chrome to the list.
+    You're done.
+
+2- Start Chrome on fullscreen
+    Place your Chrome browser into fullscreen mode.
+    Place your mouse at the top of the screen to reveal the hidden tabs and menus, and click the Chrome menu button to the right of the address bar. It looks like three horizontal lines.
+    Scroll down and select "Settings."
+    Press the radio buttons next to "Continue where I left off" and under the "On Startup" heading.
+    
+3- Setup the windows not to show top bars on fullscreen
+    Uncheck "Always show toolbars on fullscreen"
+    
+4- Schadule sleep and wake up time 
+    Choose Apple menu > System Preferences, then click Energy Saver.
+    Click Schedule, then select the options you want to use.
+    Schedule a startup or wake time for your Mac: Select the “Start up or wake” checkbox. Choose a day or group of days from the pop-up menu, then enter a time.
+    Schedule a sleep, restart, or shutdown time for your Mac: Select the bottom checkbox and choose the appropriate option from the pop-up menu on the left. Choose a day or group of days from the pop-up menu on the right, then enter a time.
