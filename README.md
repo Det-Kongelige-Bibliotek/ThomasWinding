@@ -15,6 +15,8 @@ Thomas Winding exhibition is meant for kids. We created a small website for each
 6. Done!
 
 There are two more files:
+
 1- settings.xml: This file contains the settings needed for ipads.
+
 2- scripts/settings.txt: This file tells you have to configure TVs, to act as a kiosk.
 
