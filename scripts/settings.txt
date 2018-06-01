@@ -16,10 +16,12 @@ TV settings:
     Press the radio buttons next to "Continue where I left off" and under the "On Startup" heading.
     
 3- Setup the windows not to show top bars on fullscreen
-    Uncheck "Always show toolbars on fullscreen"
+    Open "View" menu, and uncheck "Always show toolbars on fullscreen".
     
 4- Schadule sleep and wake up time 
     Choose Apple menu > System Preferences, then click Energy Saver.
     Click Schedule, then select the options you want to use.
     Schedule a startup or wake time for your Mac: Select the “Start up or wake” checkbox. Choose a day or group of days from the pop-up menu, then enter a time.
     Schedule a sleep, restart, or shutdown time for your Mac: Select the bottom checkbox and choose the appropriate option from the pop-up menu on the left. Choose a day or group of days from the pop-up menu on the right, then enter a time.
+
+5- To allow auto-play in chrome, browse to "chrome://flags/#autoplay-policy" and change the option to "No user gesture is required".
